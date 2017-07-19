@@ -41,4 +41,8 @@ public float divide() {
 	}
 }
 
+public boolean equal () {
+	return (boolean)(firstnum==secondnum);
+}
+
 }
